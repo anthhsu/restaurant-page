@@ -1,1 +1,1 @@
-console.log("hello world");
+(()=>{"use strict";(()=>{const e=document.getElementById("content"),t=document.createElement("h1");t.innerHTML="Anthony's Restaurant";const n=document.createElement("img");n.src="https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",n.alt="rice",n.width=400,n.height=300;const o=document.createElement("p");o.innerHTML="Welcome to Anthony's restaurant -- best food in the city!",e.appendChild(t),e.appendChild(n),e.appendChild(o)})()})();
